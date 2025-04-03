@@ -1,0 +1,5 @@
+﻿  CORSE 4 SOLUTION PROBLEM 38.cpp
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 38\CORSE 4 SOLUTION PROBLEM 38\CORSE 4 SOLUTION PROBLEM 38.cpp(23,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 38\CORSE 4 SOLUTION PROBLEM 38\CORSE 4 SOLUTION PROBLEM 38.cpp(26,35): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 38\CORSE 4 SOLUTION PROBLEM 38\CORSE 4 SOLUTION PROBLEM 38.cpp(49,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CORSE 4 SOLUTION PROBLEM 38.vcxproj -> D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 38\Debug\CORSE 4 SOLUTION PROBLEM 38.exe

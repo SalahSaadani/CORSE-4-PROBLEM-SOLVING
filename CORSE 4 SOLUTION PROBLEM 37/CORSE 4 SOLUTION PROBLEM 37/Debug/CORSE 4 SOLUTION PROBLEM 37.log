@@ -1,0 +1,4 @@
+﻿  CORSE 4 SOLUTION PROBLEM 37.cpp
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 37\CORSE 4 SOLUTION PROBLEM 37\CORSE 4 SOLUTION PROBLEM 37.cpp(20,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 37\CORSE 4 SOLUTION PROBLEM 37\CORSE 4 SOLUTION PROBLEM 37.cpp(31,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  CORSE 4 SOLUTION PROBLEM 37.vcxproj -> D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 37\Debug\CORSE 4 SOLUTION PROBLEM 37.exe
