@@ -1,0 +1,5 @@
+﻿  CORSE 4 SOLUTION PROBLEM 43.cpp
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 43\CORSE 4 SOLUTION PROBLEM 43\CORSE 4 SOLUTION PROBLEM 43.cpp(30,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 43\CORSE 4 SOLUTION PROBLEM 43\CORSE 4 SOLUTION PROBLEM 43.cpp(32,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 43\CORSE 4 SOLUTION PROBLEM 43\CORSE 4 SOLUTION PROBLEM 43.cpp(34,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CORSE 4 SOLUTION PROBLEM 43.vcxproj -> D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 43\Debug\CORSE 4 SOLUTION PROBLEM 43.exe
