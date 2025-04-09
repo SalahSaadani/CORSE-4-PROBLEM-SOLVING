@@ -1,0 +1,4 @@
+﻿  CORSE 4 SOLUTION PROBLEM 18.cpp
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 18\CORSE 4 SOLUTION PROBLEM 18\CORSE 4 SOLUTION PROBLEM 18.cpp(17,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 18\CORSE 4 SOLUTION PROBLEM 18\CORSE 4 SOLUTION PROBLEM 18.cpp(18,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CORSE 4 SOLUTION PROBLEM 18.vcxproj -> D:\Visuel Studio Problems\CORSE 4 SOLUTION PROBLEM 18\Debug\CORSE 4 SOLUTION PROBLEM 18.exe
